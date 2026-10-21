@@ -1,0 +1,12 @@
+MINT IVREA - SITO DEMO
+
+Il file index.html contiene il prototipo del sito, il logo e le pagine del menu incorporati.
+
+Per GitHub:
+1. Apri il repository e scegli Add file > Upload files.
+2. Estrai questo ZIP sul computer.
+3. Carica index.html (puoi anche caricare LEGGIMI.txt, ma non è necessario).
+4. Premi Commit changes.
+5. Vai in Settings > Pages, scegli Deploy from a branch, branch main, folder /(root), poi Save.
+
+Nota: è un prototipo statico. Il modulo prenotazioni automatiche e il pannello gestionale WordPress non sono ancora attivi.
